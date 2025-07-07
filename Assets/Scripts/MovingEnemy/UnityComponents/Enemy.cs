@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace CodeSamples
+namespace MovingEnemy.UnityComponents
 {
     public class Enemy : MonoBehaviour
     {
